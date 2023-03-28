@@ -22,7 +22,7 @@ public class Controller {
                 firstName,
         lastName
         );
-        employeeService.addEmployee(String firstName, String lastName);
+         employeeService.addEmployee(String firstName, String lastName);
         return "firstName";
 }
 }
